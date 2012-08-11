@@ -1,0 +1,12 @@
+Package: sixarm-debian-samba-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: samba, samba-common, python-glade2, system-config-samba
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Samba packages we like to use
+ Samba packages we like to use together.
+
+
+
